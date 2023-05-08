@@ -111,5 +111,5 @@ while in_use:
             # else:
             # continue
 
-# TODO: 1 Redo if statements to one block (possibly)
+# TODO: 1 Redo if statements to one block
 # TODO: 2 Cancel global variable Profit in money_check() - return tuple (boolean, profit increase)
